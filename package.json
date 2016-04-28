@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "name": "@amchealth/com.polychrom.cordova.AccountManagerPlugin",
+    "cordova_name": "Account Manager",
+    "description": "\nAn Android AccountManager plugin for Apache Cordova.\n   ",
+    "license": "MIT",
+    "platforms": [
+        "browser",
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}

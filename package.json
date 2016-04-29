@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "name": "cordova-android-accountmanager",
+    "name": "@amchealth/cordova-android-accountmanager",
     "cordova_name": "Account Manager",
     "description": "\nAn Android AccountManager plugin for Apache Cordova.\n   ",
     "license": "MIT",

@@ -3,7 +3,7 @@
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-android-accountmanager"
-    version="0.1.0">
+    version="0.1.1">
     <name>Account Manager</name>
     <description>An Android AccountManager plugin for Apache Cordova.</description>
     <license>Modified BSD</license>
@@ -31,7 +31,7 @@
 	</config-file>
 	
 	<config-file target="res/values/strings.xml" parent="/*">
-		<string name="aam_account_type">MyAccountType</string>
+		<string name="aam_account_type">Login</string>
 	</config-file>
 
 	<config-file target="AndroidManifest.xml" parent="/manifest/application">

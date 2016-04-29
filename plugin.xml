@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.polychrom.cordova.AccountManagerPlugin"
+    id="cordova-android-accountmanager"
     version="0.1.0">
     <name>Account Manager</name>
     <description>An Android AccountManager plugin for Apache Cordova.</description>
